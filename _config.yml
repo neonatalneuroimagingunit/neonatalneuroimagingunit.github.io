@@ -1,8 +1,8 @@
-name: Bedford Lab Research
-description: Science updates on evolution, epidemiology and immunology from the Bedford lab at the Fred Hutch
-url: http://bedford.io
+name: Neonatal Neuroimaging Unit
+description: Science updates on cognitive science, neonatal fNIRS and neonatal EEG from CIMeC - University of Trento.
+url: http://neonatalneuroimagingunit.github.io
 
-markdown: redcarpet
+markdown:
 permalink: /:categories/:title/
 future: true
 
