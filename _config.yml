@@ -1,6 +1,7 @@
 name: Neonatal Neuroimaging Unit
 description: Science updates on neonatal neuroscience, fNIRS and EEG from CIMeC.
 url: http://neonatalneuroimagingunit.github.io
+root: /
 
 markdown: kramdown
 permalink: /:categories/:title/
